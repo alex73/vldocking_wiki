@@ -115,7 +115,7 @@ The following code will add a title, a tooltip and and icon to the `MyTextEditor
 
 
 And here is a screenshot of the result :
-  [http://vldocking.googlecode.com/svn/wiki/frame7.jpg]
+  [frame7.jpg]
 
 
 
@@ -194,7 +194,7 @@ The following code will disable the close and auto-hide features of our MyTextEd
 The following screenshot will show you the effects or this code, you can verify that
 the close and autohide buttons have been removed from the text area's title bar.
 
-  [http://vldocking.googlecode.com/svn/wiki/frame8.jpg]
+  [frame8.jpg]
 
 
 
@@ -236,7 +236,7 @@ version to replace them (and thus would remove the need of nesting of containers
 
 The following diagram shows how the SplitContainer hierarchy associated to our example.
 
- [http://vldocking.googlecode.com/svn/wiki/splitcontainers.jpg]
+ [splitcontainers.jpg]
  
 
 
@@ -328,7 +328,7 @@ tabbed container *.
 For example, when creating a MTDI (multiple tabbed document interface), you want to have
 the following configuration :
 
- [http://vldocking.googlecode.com/svn/wiki/mtdi.jpg]
+ [mtdi.jpg]
  
  _A Multiple Tabbed Document Interface_
 

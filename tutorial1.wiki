@@ -132,7 +132,7 @@ public class MyFirstFrame extends JFrame {
 
 Launching this application should give us something like that :
  
- [http://vldocking.googlecode.com/svn/wiki/frame1.jpg]
+ [frame1.jpg]
   
  _My First Frame, without docking)_
 
